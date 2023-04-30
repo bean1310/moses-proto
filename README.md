@@ -1,5 +1,26 @@
 # PROJECT MOSES
 
+## How to use
+
+```bash
+docker compose up -d
+## open http://localhost:8080 on your browser.
+```
+
+or 
+
+Terminal 1
+```bash
+cd backend
+cargo run
+```
+
+Terminal2
+```bash
+cd html_front
+go run .
+```
+
 ## Architecture
 
 ### TOBE(?)
